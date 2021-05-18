@@ -1,3 +1,17 @@
-.GameList{
+.Gamelist{
 	border-style: outset;
+	border-width: 5px;
+}
+.Information{
+	border-style:ridge;
+	border-width:2px;
+}
+.images{
+	border-style:dotted;
+	border-width:3px;
+}
+.funfacts{
+	background-color:yellow;
+	border-style:ridge;
+	border-width:6px;
 }
