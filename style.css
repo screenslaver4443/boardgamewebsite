@@ -1,17 +1,27 @@
 .Gamelist{
 	border-style: outset;
 	border-width: 5px;
+	background-color: #FFC6FF;
+	float:left;
+	list-style:none;
+}
+.Information img{
+	float:left;
+	display:inline;
+	
 }
 .Information{
+	background-color: #FFADAD;
 	border-style:ridge;
 	border-width:2px;
 }
 .images{
+	background-color: #CAFFBF;
 	border-style:dotted;
 	border-width:3px;
 }
 .funfacts{
-	background-color:yellow;
+	background-color: #FDFFB6;
 	border-style:ridge;
 	border-width:6px;
 }
