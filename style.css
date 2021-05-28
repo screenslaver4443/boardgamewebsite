@@ -2,8 +2,10 @@
 	border-style: outset;
 	border-width: 5px;
 	background-color: #FFC6FF;
-	float:left;
 	list-style:none;
+	float:left;
+	text-decoration: none;
+	height:100vh;
 }
 .Information img{
 	float:left;
@@ -19,9 +21,11 @@
 	background-color: #CAFFBF;
 	border-style:dotted;
 	border-width:3px;
+	margin-left:145px
 }
 .funfacts{
 	background-color: #FDFFB6;
 	border-style:ridge;
 	border-width:6px;
+	margin-left:145px
 }
