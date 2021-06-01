@@ -5,3 +5,10 @@
 body{
 	background-color: #CAFFBF;
 }
+header{
+	border-style: outset;
+	border-width: 10px;
+}
+header h2{
+	display:inline;
+}
