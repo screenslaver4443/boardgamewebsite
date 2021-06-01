@@ -4,6 +4,7 @@
 	background-color: #FFC6FF;
 	list-style:none;
 	float:left;
+	width:12%;
 	text-decoration: none;
 	height:100vh;
 }
@@ -21,11 +22,13 @@
 	background-color: #CAFFBF;
 	border-style:dotted;
 	border-width:3px;
-	margin-left:18.9%;
+	float:right;
+	width:86%;
 }
 .funfacts{
 	background-color: #FDFFB6;
 	border-style:ridge;
+	float:right;
+	width:86%;
 	border-width:6px;
-	margin-left:18.9%;
 }
