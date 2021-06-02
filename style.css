@@ -3,8 +3,8 @@
 	border-width: 5px;
 	background-color: #FFC6FF;
 	float:left;
-	width:11%;
-	height:100vh;
+	width:13%;
+	height:126vh;
 }
 .Information img{
 	float:left;
@@ -21,13 +21,13 @@
 	border-style:dotted;
 	border-width:3px;
 	float:right;
-	width:86%;
+	width:84%;
 }
 .funfacts{
 	background-color: #FDFFB6;
 	border-style:ridge;
 	float:right;
-	width:86%;
+	width:84%;
 	border-width:6px;
 }
 footer{
@@ -36,10 +36,20 @@ footer{
 	margin-left:auto;
 	margin-right:auto;
 	text-align: center;
-	width:23.55%
+	width:98%;
 	padding:5px;
 	border-style: solid;
-	
+	background-color:black;
+	overflow: hidden;
+}
+footer a{
+	text-decoration: none;
+	color:white;
+	font-size:24px;
+}
+footer a:hover{
+	background-color:white;
+	color:black;
 }
 body{
 	background-image: url('images/background for homepage.jpeg');
