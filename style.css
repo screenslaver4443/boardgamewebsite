@@ -30,6 +30,17 @@
 	width:86%;
 	border-width:6px;
 }
+footer{
+	font-size: 10px;
+	float:right;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	width:23.55%
+	padding:5px;
+	border-style: solid;
+	
+}
 body{
 	background-image: url('images/background for homepage.jpeg');
 }
