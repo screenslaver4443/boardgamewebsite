@@ -12,3 +12,8 @@ header{
 header h2{
 	display:inline;
 }
+#boxytmorning{
+	border-style: solid;
+	border-width:2px;
+	border-color:#9BF6FF;
+}
