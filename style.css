@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
 .Gamelist{
 	border-style: outset;
 	border-width: 5px;
@@ -53,4 +55,5 @@ footer a:hover{
 }
 body{
 	background-image: url('images/background for homepage.jpeg');
+	font-family: 'Orbitron', sans-serif;
 }
